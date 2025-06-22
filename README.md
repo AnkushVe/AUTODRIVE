@@ -47,7 +47,7 @@ AUTODRIVE is an advanced self-driving car simulation platform that combines mult
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/autodrive.git
+   git clone https://github.com/AnkushVe/autodrive.git
    cd autodrive
    ```
 
@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@AnkushVe](https://github.com/AnkushVe)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/autodrive](https://github.com/yourusername/autodrive)
+- Project Link: [https://github.com/AnkushVe/autodrive](https://github.com/AnkushVe/autodrive)
 
 ---
 
